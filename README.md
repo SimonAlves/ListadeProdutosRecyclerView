@@ -1,4 +1,4 @@
-# ListadeProdutosRecyclerView
+# Listade ProdutosRecyclerView
 
 Listade Produtos RecyclerView  é o Segundo aplicativo que desenvolvi para dar meus primeiros passos com desenvolvimento Android. 
 
